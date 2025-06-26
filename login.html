@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Connexion Éditeur</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="login-container">
+    <h2>Connexion Éditeur</h2>
+    <form id="loginForm" onsubmit="return login(event)">
+      <label for="username">Nom d'utilisateur :</label>
+      <input type="text" id="username" required>
+      <label for="password">Mot de passe :</label>
+      <input type="password" id="password" required>
+      <button type="submit">Se connecter</button>
+    </form>
+    <p id="errorMsg" class="error"></p>
+  </div>
+  <script src="js/auth.js"></script>
+</body>
+</html>

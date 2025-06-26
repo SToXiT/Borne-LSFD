@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Édition - Carte GTA 5 RP</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+</head>
+<body>
+  <header>
+    <h1>Édition des marqueurs</h1>
+    <div class="header-actions">
+      <button onclick="logout()" class="logout-btn">Déconnexion</button>
+      <a href="index.html" class="edit-link">Retour Carte</a>
+    </div>
+  </header>
+  <div class="instructions">
+    <div id="toolbar">
+      <div id="marker-type-selector">
+        <p>Sélectionne le type de marqueur.</p>
+        <button data-type="hydrant-red" style="background:#c00;color:#fff">Borne Rouge</button>
+        <button data-type="hydrant-yellow" style="background:#fc0;color:#000">Borne Jaune</button>
+        <button data-type="firestation" style="background:#444;color:#fff">Caserne</button>
+        <button data-type="hospital" style="background:#0cf;color:#fff">Hôpital</button>
+      </div>
+      <button id="copy-json-btn">Copier le JSON</button>
+    </div>
+    <div id="type-menu">Chargement...</div>
+  </div>
+  <div id="map"></div>
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="js/edit.js"></script>
+</body>
+</html>

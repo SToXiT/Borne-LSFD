@@ -1,0 +1,6 @@
+[
+  {"x": 4000, "y": 4500, "type": "hydrant-red"},
+  {"x": 2000, "y": 3000, "type": "hydrant-yellow"},
+  {"x": 1000, "y": 2000, "type": "firestation"},
+  {"x": 3000, "y": 4000, "type": "hospital"}
+]
