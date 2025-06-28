@@ -43,7 +43,7 @@ document.querySelectorAll('#marker-type-selector button').forEach(btn => {
 
 const map = L.map('map', {
   crs: L.CRS.Simple,
-  minZoom: -2
+  minZoom: -3
 });
 const bounds = [[0,0], [9000,8192]];
 L.imageOverlay('img/map.png', bounds).addTo(map);
