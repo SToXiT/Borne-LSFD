@@ -1758,5 +1758,1010 @@
     "x": 4078,
     "y": 1325.5,
     "type": "hydrant-yellow"
+  },
+{
+    "x": 5034.5,
+    "y": 5128.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 5057.5,
+    "y": 5134,
+    "type": "hydrant-red"
+  },
+  {
+    "x": 5085.5,
+    "y": 5162,
+    "type": "hydrant-red"
+  },
+  {
+    "x": 4985.5,
+    "y": 5133,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4999,
+    "y": 5127,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4956,
+    "y": 5119,
+    "type": "hydrant-red"
+  },
+  {
+    "x": 4943.5,
+    "y": 5111.5,
+    "type": "hydrant-red"
+  },
+  {
+    "x": 4946.5,
+    "y": 5098,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4921.5,
+    "y": 5133.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4902.5,
+    "y": 5071.5,
+    "type": "hydrant-red"
+  },
+  {
+    "x": 4808.5,
+    "y": 5068.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4883.5,
+    "y": 5161,
+    "type": "hydrant-red"
+  },
+  {
+    "x": 4953,
+    "y": 5154.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4983.5,
+    "y": 5195.5,
+    "type": "hydrant-red"
+  },
+  {
+    "x": 5061,
+    "y": 5201,
+    "type": "hydrant-red"
+  },
+  {
+    "x": 5019.5,
+    "y": 5258.5,
+    "type": "hydrant-red"
+  },
+  {
+    "x": 4961.5,
+    "y": 5220.5,
+    "type": "hydrant-red"
+  },
+  {
+    "x": 4893,
+    "y": 5182,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4862,
+    "y": 5209.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4826.5,
+    "y": 5128,
+    "type": "hydrant-red"
+  },
+  {
+    "x": 4797,
+    "y": 5128.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4769.5,
+    "y": 5128.5,
+    "type": "hydrant-red"
+  },
+  {
+    "x": 4822,
+    "y": 5172.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4921.5,
+    "y": 5233,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4003.5,
+    "y": 5037.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4688.5,
+    "y": 5060,
+    "type": "hydrant-red"
+  },
+  {
+    "x": 4732.5,
+    "y": 5057.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4814,
+    "y": 5105,
+    "type": "hydrant-red"
+  },
+  {
+    "x": 5065.25,
+    "y": 4686.25,
+    "type": "hydrant-red"
+  },
+  {
+    "x": 5439.25,
+    "y": 4416.75,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 5435,
+    "y": 5443.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 5378.5,
+    "y": 5454.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 5383.5,
+    "y": 5434.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4865,
+    "y": 5846.25,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4854.25,
+    "y": 5857.25,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4858.5,
+    "y": 5888.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3775.5,
+    "y": 7039.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3815.5,
+    "y": 7024,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3734,
+    "y": 7020.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3691,
+    "y": 6982,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3654.5,
+    "y": 6933.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3667.5,
+    "y": 6922,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3638,
+    "y": 6921.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3566.5,
+    "y": 6862.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3511.5,
+    "y": 6827.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3497.5,
+    "y": 6804,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3481,
+    "y": 6787.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3489.5,
+    "y": 6758,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3527,
+    "y": 6736.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3518,
+    "y": 6742.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3539,
+    "y": 6763.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3546,
+    "y": 6778,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3564.5,
+    "y": 6770.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3535.5,
+    "y": 6788,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3573,
+    "y": 6782.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3574.5,
+    "y": 6800,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3599.5,
+    "y": 6807.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3602,
+    "y": 6826,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3617,
+    "y": 6841,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3633,
+    "y": 6843,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3649.5,
+    "y": 6856,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3639.5,
+    "y": 6864.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3667.5,
+    "y": 6878,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3673,
+    "y": 6896,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3683.5,
+    "y": 6906,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3716,
+    "y": 6925,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3731,
+    "y": 6941,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3728.5,
+    "y": 6952,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3746,
+    "y": 6954.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3778,
+    "y": 7002,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3755,
+    "y": 6981.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3826.5,
+    "y": 6920,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3772,
+    "y": 6907.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3744.5,
+    "y": 6881,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3720.5,
+    "y": 6854,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3718,
+    "y": 6811.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3689,
+    "y": 6817.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3675.5,
+    "y": 6772.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3646.5,
+    "y": 6772.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3640,
+    "y": 6736,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3605.5,
+    "y": 6732.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3597.5,
+    "y": 6738.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3575,
+    "y": 6747.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3596.5,
+    "y": 6724,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3606.5,
+    "y": 6701.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3589.5,
+    "y": 6686,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3551.5,
+    "y": 6680,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3536,
+    "y": 6663.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3490.5,
+    "y": 6648.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3477,
+    "y": 6616,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3523.5,
+    "y": 6618.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3367,
+    "y": 7208.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3392.5,
+    "y": 7229.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3415.5,
+    "y": 7277,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3400,
+    "y": 7320,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3402,
+    "y": 7513.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4293.5,
+    "y": 7390.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4068,
+    "y": 7418,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4051.5,
+    "y": 7547.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3915,
+    "y": 7654,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4014,
+    "y": 7739,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3816,
+    "y": 7895.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3735,
+    "y": 7856.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3584.5,
+    "y": 7769.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3511,
+    "y": 7769,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3484,
+    "y": 7665,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3496,
+    "y": 7609,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3378,
+    "y": 7634,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3405,
+    "y": 7690,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3552,
+    "y": 7574,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3537,
+    "y": 7453,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3536,
+    "y": 7400,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3564.25,
+    "y": 7340.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3512.5,
+    "y": 7410.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3508,
+    "y": 7482.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3273,
+    "y": 7516,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 2492.625,
+    "y": 7508.0625,
+    "type": "hydrant-red"
+  },
+  {
+    "x": 1713,
+    "y": 7582,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 1706,
+    "y": 6963,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3406.5,
+    "y": 7267.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3386.5,
+    "y": 7260.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 3445.5,
+    "y": 7339,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 1987.5,
+    "y": 7000.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 1702.5,
+    "y": 6869.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 1849.5,
+    "y": 6901.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 1693.5,
+    "y": 6794,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 1603.5,
+    "y": 6742,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 1763,
+    "y": 6760.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 1832.5,
+    "y": 6762,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 1802.5,
+    "y": 6711,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 1652,
+    "y": 6694,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 1401.5,
+    "y": 6603,
+    "type": "hydrant-red"
+  },
+  {
+    "x": 4324.5,
+    "y": 2678.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4287,
+    "y": 2617.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4321,
+    "y": 2615.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4336,
+    "y": 2584.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4311.5,
+    "y": 2585.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4380.5,
+    "y": 2578,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4366,
+    "y": 2560,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4412.5,
+    "y": 2534,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4419.5,
+    "y": 2501.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4560,
+    "y": 2473,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4565,
+    "y": 2428,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4540,
+    "y": 2420,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4592,
+    "y": 2392,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4595,
+    "y": 2357,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4589,
+    "y": 2333.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4598,
+    "y": 2298.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4628.5,
+    "y": 2308,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4665.5,
+    "y": 2282.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4582.5,
+    "y": 2290,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4596,
+    "y": 2251,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4402,
+    "y": 2243,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4423.5,
+    "y": 2283.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4413,
+    "y": 2317,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4387.5,
+    "y": 2282,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4337,
+    "y": 2309.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4378.5,
+    "y": 2335,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4420,
+    "y": 2363,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4462,
+    "y": 2388.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4475,
+    "y": 2364,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4457,
+    "y": 2357,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4471.5,
+    "y": 2338.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4546.5,
+    "y": 2336,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4526.5,
+    "y": 2348.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4541,
+    "y": 2311.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4535.5,
+    "y": 2385.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4545.5,
+    "y": 2259.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4555,
+    "y": 2199.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4559.499999115327,
+    "y": 1814.5000389255938,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4542.499999115327,
+    "y": 1816.0000389255938,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4535.499999115327,
+    "y": 1813.0000389255938,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4534.499999115327,
+    "y": 1792.5000389255938,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4534.499999115327,
+    "y": 1767.5000389255938,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4553.999999115327,
+    "y": 1767.0000389255938,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4542.999999115327,
+    "y": 1748.5000389255938,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4560,
+    "y": 1755,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4554.5,
+    "y": 1715,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4529.5,
+    "y": 1714.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4506,
+    "y": 1701,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4505,
+    "y": 1734,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4506,
+    "y": 1672,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4484.5,
+    "y": 1701.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4438.5,
+    "y": 1714.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4399.5,
+    "y": 1734.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4373,
+    "y": 1715,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4603.5,
+    "y": 1639,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4629.5,
+    "y": 1587.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4611,
+    "y": 1595,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4583.5,
+    "y": 1577,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4554,
+    "y": 1561.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4529,
+    "y": 1550.5,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4550,
+    "y": 1469,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4469,
+    "y": 1307,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4446,
+    "y": 1292,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4449,
+    "y": 1264,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4458,
+    "y": 1186,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4439,
+    "y": 1146,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4432,
+    "y": 1082,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4429,
+    "y": 1051,
+    "type": "hydrant-yellow"
+  },
+  {
+    "x": 4374,
+    "y": 1037,
+    "type": "hydrant-yellow"
   }
 ]
