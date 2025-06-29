@@ -2,7 +2,7 @@
 const markerIcons = {
   "hydrant-red": L.icon({ iconUrl: 'img/marker-red.png', iconSize: [10,10], iconAnchor: [5,5] }),
   "hydrant-yellow": L.icon({ iconUrl: 'img/marker-yellow.png', iconSize: [10,10], iconAnchor: [5,5] }),
-  "firestation": L.icon({ iconUrl: 'img/marker-firestation.png', iconSize: [10,10], iconAnchor: [5,5] }),
+  "firestation": L.icon({ iconUrl: 'img/marker-firestation.png', iconSize: [17,30], iconAnchor: [8.5,30] }),
   "hospital": L.icon({ iconUrl: 'img/marker-hospital.png', iconSize: [10,10], iconAnchor: [5,5] }),
 };
 
@@ -24,7 +24,7 @@ function renderHydrants() {
   hydrants.forEach(h => {
     if (visibleTypes[h.type] !== false) {
       const icon = markerIcons[h.type] || markerIcons["hydrant-red"];
-      const label = markerLabels[h.type] || h.type;
+      let label = h.nom || markerLabels[h.type] || h.type;
       const marker = L.marker([h.y, h.x], {icon})
         .bindPopup(label)
         .addTo(map);
