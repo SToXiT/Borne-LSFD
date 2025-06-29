@@ -70,7 +70,7 @@ async function initMap() {
 // Initialisation de la carte
 const map = L.map('map', {
   crs: L.CRS.Simple,
-  minZoom: -4,
+  minZoom: -3,
   maxZoom: 2
 });
 const bounds = [[0,0], [9000,8192]];
