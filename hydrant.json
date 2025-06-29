@@ -828,5 +828,9 @@
 {"x":3884,"y":1405,"type":"hydrant-yellow"},
 {"x":3837,"y":1449.5,"type":"hydrant-yellow"},
 {"x":3771,"y":1447,"type":"hydrant-yellow"},
-{"x":3704.5,"y":1481,"type":"hydrant-yellow"}
+{"x":3704.5,"y":1481,"type":"hydrant-yellow"},
+{"x":5411,"y":5441.5,"type":"firestation","nom":"Station 70"},
+{"x":4543,"y":1703,"type":"firestation","nom":"Station 71"},
+{"x":3483.5,"y":7342.5,"type":"firestation","nom":"Station 72"},
+{"x":3004,"y":809,"type":"firestation","nom":"Station 73"}
 ]
