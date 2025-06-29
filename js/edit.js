@@ -16,7 +16,7 @@ function getLocalHydrants() {
 const markerIcons = {
   "hydrant-red": L.icon({ iconUrl: 'img/marker-red.png', iconSize: [10,10], iconAnchor: [5,5] }),
   "hydrant-yellow": L.icon({ iconUrl: 'img/marker-yellow.png', iconSize: [10,10], iconAnchor: [5,5] }),
-  "firestation": L.icon({ iconUrl: 'img/marker-firestation.png', iconSize: [10,10], iconAnchor: [5,5] }),
+  "firestation": L.icon({ iconUrl: 'img/marker-firestation.png', iconSize: [17,30], iconAnchor: [8.5,30] }),
   "hospital": L.icon({ iconUrl: 'img/marker-hospital.png', iconSize: [10,10], iconAnchor: [5,5] }),
 };
 
