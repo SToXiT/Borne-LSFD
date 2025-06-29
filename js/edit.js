@@ -1,7 +1,3 @@
-if (!sessionStorage.getItem('editor')) {
-  window.location.href = "login.html";
-}
-
 async function loadHydrants() {
   const response = await fetch('hydrant.json');
   return await response.json();
@@ -145,12 +141,8 @@ function createTypeMenu(types) {
 }
 
 async function init() {
-  hydrants = getLocalHydrants();
-  if (!hydrants || hydrants.length === 0) {
-    hydrants = await loadHydrants();
-    saveHydrantsLocally(hydrants); // Optionnel : pour uniformiser le stockage
-  }
-  console.log("Hydrants chargés :", hydrants);
+  hydrants = await loadHydrants();
+  saveHydrantsLocally(hydrants); // Synchroniser localStorage si besoin
   const types = [...new Set(hydrants.map(h => h.type))];
   types.forEach(type => visibleTypes[type] = true);
   createTypeMenu(types);
