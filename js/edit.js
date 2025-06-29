@@ -54,7 +54,7 @@ function renderHydrants() {
   hydrants.forEach((h, idx) => {
     if (visibleTypes[h.type] !== false) {
       const icon = markerIcons[h.type] || markerIcons["hydrant-red"];
-      const label = markerLabels[h.type] || h.type;
+      let label = h.nom || markerLabels[h.type] || h.type;
       const marker = L.marker([h.y, h.x], {icon})
         .bindPopup(label)
         .addTo(map);
@@ -72,7 +72,12 @@ function renderHydrants() {
 
 // Ajout du marqueur sur clic
 map.on('click', function(e) {
-  hydrants.push({ x: e.latlng.lng, y: e.latlng.lat, type: selectedType });
+  let obj = { x: e.latlng.lng, y: e.latlng.lat, type: selectedType };
+  if (selectedType === "firestation") {
+    let nom = prompt("Nom de la caserne ?");
+    obj.nom = nom || "Caserne";
+  }
+  hydrants.push(obj);
   saveHydrantsLocally(hydrants);
   renderHydrants();
 });
