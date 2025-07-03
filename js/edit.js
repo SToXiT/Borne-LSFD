@@ -84,7 +84,9 @@ map.on('click', function(e) {
 
 // Copie du JSON
 document.getElementById('copy-json-btn').onclick = function() {
-  navigator.clipboard.writeText(JSON.stringify(hydrants, null, 2));
+  const lines = hydrants.map(obj => JSON.stringify(obj));
+  const json = '[\n' + lines.map((l, i) => (i < lines.length - 1 ? l + ',' : l)).join('\n') + '\n]';
+  navigator.clipboard.writeText(json);
   alert("JSON copié dans le presse-papiers !");
 };
 
